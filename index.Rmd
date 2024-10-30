@@ -1,0 +1,22 @@
+---
+title: "My website for HW4"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is jw4693's awesome website
+
+This is Jianming's awesome website about data science. 
+Sometimes I use [google](https://www.google.com/) to do data science when I'm stuck.
+
+![](https://www.firstnaukri.com/career-guidance/wp-content/uploads/2023/11/what-is-data-science.jpg)
+
+This website contains my resume and some plots from my course Data Science I, and I hope we can make progress together! Here are common steps for data analysis steps.
+
+![](https://learn.g2.com/hs-fs/hubfs/data-analysis-process.png?width=1625&name=data-analysis-process.png)
+
+If you'd like to learn more about me, visit [this page](links.html)
+
+

@@ -1,0 +1,11 @@
+---
+title: "More information"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+You can learn more about me and my project in my [github](https://github.com/Jianming-jmm). My LinkedIn profile is [here](https://www.linkedin.com/in/jianming-wang-480724323/).
+
+Also, youcan contact with me by mailing to my [email](mailto:<jw4693@cumc.columbia.edu>).

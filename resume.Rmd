@@ -1,0 +1,16 @@
+---
+title: "My Professional Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Here is a website for my resume profile.
+
+I graduated from [Fudan University](https://www.fudan.edu.cn/), majoring in biological sciences. I began to study in [Mailman School of Public Health](https://www.publichealth.columbia.edu/), Columbia University in 2024 and am expected to graduate in 2026, majoring in Biostatistics.
+
+![](https://www.biopharmaservices.com/wp-content/uploads/2022/10/Biostatistics-in-Public-Health-Blog-image..png)
+
+
+For more detailed experience, please read my [resume](CV-Wang Jianming-09_2024.pdf).
